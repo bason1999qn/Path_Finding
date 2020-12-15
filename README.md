@@ -2,8 +2,7 @@
 	
 	
 
-##Find the shortest path from the start point to the destination as long as the pathdoes not cut
-through polygonal obstacles.
+# Find the shortest path from the start point to the destination as long as the pathdoes not cut through polygonal obstacles.
 
 Ở menu đầu tiên, có 4 sự lựa chọn:
  0. Thoát khỏi chương trình
