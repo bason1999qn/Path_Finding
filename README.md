@@ -1,4 +1,10 @@
 	Hướng dẫn sử dụng
+	
+	
+
+##Find the shortest path from the start point to the destination as long as the pathdoes not cut
+through polygonal obstacles.
+
 Ở menu đầu tiên, có 4 sự lựa chọn:
  0. Thoát khỏi chương trình
  1. Chạy chương trình ở mức 1
@@ -18,3 +24,5 @@ Sau khi chọn thuật toán xong, chương trình tiếp tục yêu cầu nhậ
 
 Sau khi nhập tệp đầu vào xong, chương trình sẽ chạy và hiện kết quả đồ họa bằng khung canvas, đồng thời hiện chi phí trong command.
 Nếu ta tắt khung canvas đi, chương trình sẽ tiếp tục hiện ra menu đầu tiên. Có thể nhập 0 để thoát khỏi chương trình hoặc nhập 1-3 để tiếp tục các mức khác.
+
+
